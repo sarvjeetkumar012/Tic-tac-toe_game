@@ -43,9 +43,24 @@ Enjoy a clean, responsive UI, dynamic gameplay, and a "New Game" button to resta
 
 Try it yourself right now! [🎲 Play Tic Tac Toe Online](https://sarvjeetkumar012.github.io/Tic-tac-toe_game/)
 
-*(Replace the link above with your actual GitHub Pages or hosting URL)*
 
 ---
+
+## 🧾 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+
+---
+
+## 🙌 Author
+
+Made with ❤️ by [Sarvjeet Kumar](https://github.com/sarvjeetkumar012)
+
+---
+
 ## 📁 Folder Structure
 
 TIC-TAC-TOE GAME/
